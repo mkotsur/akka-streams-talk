@@ -1,0 +1,19 @@
+classes/
+build
+target
+
+# Idea project files
+*.iws
+*.ipr
+*.iml
+.idea/
+out/
+
+examples/*/target
+
+.gradle/
+
+logs
+
+.DS_Store
+.vscode/settings.json
